@@ -4,7 +4,7 @@ import sys
 # 1. DATABASE AKSES (Edit/Hapus Nama di Sini)
 # =========================================================
 DAFTAR_MEMBER = {
-    "uton": "admin123",        # Masih aktif
+    "buton": "admin1234",        # Masih aktif
     "teman1": "coba_doang",    # Masih aktif
     "asep": "kunci88",         # Masih aktif
     "nagabuton": "premium2026" # Akun owner
